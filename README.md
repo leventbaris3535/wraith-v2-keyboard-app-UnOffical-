@@ -70,3 +70,88 @@ Bu proje, **build.bat** dosyası sayesinde **hiçbir manuel komut girmeden** oto
 - Başarılı veya hatalı durumu kullanıcıya bildirir  
 
 Başarılı olursa:
+
+BUILD BASARILI
+
+Hata olursa:
+
+BUILD HATASI!
+
+
+---
+
+## 📦 2. Hazır Sürümler (Önerilen)
+
+Node.js kurmak veya build almak istemeyen kullanıcılar için **hazır derlenmiş sürümler** mevcuttur.
+
+### Mevcut Sürüm Türleri
+
+#### 🧩 Kurulan Sürüm (Installer)
+- Bilgisayara kurulur  
+- Başlat menüsüne eklenir  
+- Kaldırma (Uninstall) desteği vardır  
+
+#### 📁 Taşınabilir Sürüm (Portable)
+- Kurulum gerektirmez  
+- İndirip direkt çalıştırılır  
+- USB bellekten bile çalıştırılabilir  
+
+---
+
+### 📥 İndirme
+
+1. GitHub sayfasındaki **Releases** bölümüne gidin  
+2. İstediğiniz sürümü seçin:
+   - **Installer**
+   - **Portable**
+3. İndirin ve çalıştırın  
+
+👉 **Ek kurulum gerekmez.**
+
+---
+
+## 📁 Releases
+
+Tüm hazır sürümler **Releases** sekmesinde paylaşılmaktadır.
+
+Her sürümde:
+
+- Kurulan / taşınabilir seçenekler  
+- Sürüm notları  
+- Yapılan değişiklikler  
+- Düzeltmeler  
+
+bulunur.
+
+---
+
+## 🛠️ Kullanılan Teknolojiler
+
+- **Node.js**
+- **Electron**
+
+---
+
+## ❗ Sorumluluk Reddi
+
+- Bu proje **resmî değildir**
+- Wraith markası ilgili sahiplerine aittir
+- Resmî Wraith uygulaması yerine geçmez
+- Oluşabilecek sorunlardan proje geliştiricileri sorumlu tutulamaz
+
+---
+
+## 🤝 Katkıda Bulunma
+
+Katkılar her zaman açıktır 🙌
+
+- Pull Request gönderebilirsiniz  
+- Issue açarak hata bildirebilirsiniz  
+- Geliştirme önerilerinde bulunabilirsiniz  
+
+---
+
+## 📄 Lisans
+
+Bu proje açık kaynaklıdır.  
+Detaylar için **LICENSE** dosyasını inceleyiniz.
