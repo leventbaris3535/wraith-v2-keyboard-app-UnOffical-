@@ -1,14 +1,14 @@
-# wraith-v2-keyboard-app (Unofficial)
+# wraith-app (Unofficial)
 
 > ⚠️ **Gayriresmî Proje Uyarısı**  
-> Bu uygulama bir **Wraith** uygulamasıdır; ancak **Wraith’in resmi geliştiricileri tarafından geliştirilmemiştir**.  
+> Bu uygulama bir **Wraith** Klavye uygulamasıdır sadece Wraith W75 ile çalışır; ancak **Wraith’in resmi geliştiricileri tarafından geliştirilmemiştir**.  
 > Resmî bir uygulama değildir ve Wraith ile herhangi bir resmî bağlantısı yoktur.
 
 ---
 
 ## 📌 Proje Hakkında
 
-**wraith-v2-keyboard-app**, Wraith klavye uygulamasının **topluluk tarafından geliştirilmiş (unofficial)** bir masaüstü sürümüdür.
+**wraith-app**, Wraith klavye uygulamasının **topluluk tarafından geliştirilmiş (unofficial)** bir masaüstü sürümüdür.
 
 Bu projede kullanıcılar:
 
@@ -135,7 +135,6 @@ bulunur.
 ## ❗ Sorumluluk Reddi
 
 - Bu proje **resmî değildir**
-- Wraith markası ilgili sahiplerine aittir
 - Resmî Wraith uygulaması yerine geçmez
 - Oluşabilecek sorunlardan proje geliştiricileri sorumlu tutulamaz
 
