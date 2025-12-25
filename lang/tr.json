@@ -1,0 +1,22 @@
+{
+    "tray": {
+        "tooltip": "Wraith Tray Denetleyici",
+        "refresh": "Yenile",
+        "hideShow": "Gizle / Göster",
+        "exit": "Çıkış",
+        "language": "Dil"
+    },
+    "notifications": {
+        "profileChanged": "Profil değiştirildi",
+        "loginRequired": "Giriş Gerekli",
+        "loginSuccessful": "Giriş Başarılı",
+        "error": "Hata"
+    },
+    "messages": {
+        "activeProfile": "Aktif profil: {profileName}",
+        "loginToChangeProfile": "Profil değiştirmek için önce giriş yapmalısınız",
+        "pageNotLoaded": "Sayfa yüklenmedi",
+        "profileChangeFailed": "Profil değiştirilemedi",
+        "remoteProfileChange": "Profil uzaktan değiştirildi"
+    }
+}

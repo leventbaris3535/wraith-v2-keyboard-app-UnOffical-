@@ -1,0 +1,22 @@
+{
+    "tray": {
+        "tooltip": "Wraith Tray Controller",
+        "refresh": "Refresh",
+        "hideShow": "Hide / Show",
+        "exit": "Exit",
+        "language": "Language"
+    },
+    "notifications": {
+        "profileChanged": "Profile changed",
+        "loginRequired": "Login Required",
+        "loginSuccessful": "Login Successful",
+        "error": "Error"
+    },
+    "messages": {
+        "activeProfile": "Active profile: {profileName}",
+        "loginToChangeProfile": "You need to login to change profile",
+        "pageNotLoaded": "Page not loaded",
+        "profileChangeFailed": "Profile change failed",
+        "remoteProfileChange": "Profile changed remotely"
+    }
+}
