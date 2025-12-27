@@ -1,6 +1,6 @@
 {
   "name": "wraith-app",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Unofficial custom wraith app",
   "author": "leventbaris3535",
   "main": "main.js",
@@ -28,6 +28,7 @@
       "!**/*.{md,markdown,yml,yaml}"
     ],
     "extraResources": [
+      "chromium/**",
       "python/dist/winctl.exe",
       "lang/*",
       "tray-icon.png"
